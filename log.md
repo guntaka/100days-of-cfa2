@@ -9,3 +9,11 @@
 4. Coefficient of Determination R-squared (sub-topic correlation coefficient)
 
 **Link to work:** [Linear regression spreadsheet](https://1drv.ms/x/s!Au3-wTJ9p85dhUW9OwsWb7Dv4NuT?e=UBzHDM) verified with R-Lang lm function
+
+### Day 2: December 7, 2020
+
+**Today's Progress:**
+1. Hypothesis testing for regression model 
+    t-test, tc, and p-value
+2. ANOVA - Analysis of Variance
+    F-test
